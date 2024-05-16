@@ -1,5 +1,9 @@
 # Destiny 2: A Beginner’s Guide
 
+```
+Source: https://www.greenmangaming.com/blog/destiny-2-beginners-guide-tips-and-tricks-story-guide/#:~:text=When%20you%20start%20Destiny%202,Ghost%20%E2%80%93%20more%20on%20Ghosts%20later.
+```
+
 ![](https://www.greenmangaming.com/blog/wp-content/uploads/2022/08/destiny-2-beginners-guide-tips-and-tricks-story-guide.jpg)
 
 Destiny 2 is a game of two halves. You’ve got a brilliant universe dripping with story, filled with some of the most exciting and innovative FPS multiplayer action you’ll ever see in a video game. On the other side you’ve got a game that can seem utterly impenetrable especially to newcomers and lapsed players.
