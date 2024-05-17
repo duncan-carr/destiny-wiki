@@ -5,7 +5,7 @@
 </script>
 
 <main class="grid grid-cols-4 m-5 gap-3">
-    <section class="col-span-1 fixed top-24">
+    <section class="col-span-1">
         <strong class="uppercase text-sm">On This Page</strong>
         <p>Destiny 2: A Beginner's Guide</p>
         <p>Getting Started</p>
