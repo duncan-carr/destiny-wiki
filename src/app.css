@@ -50,6 +50,18 @@ article > p > img {
     width: 100%;
 }
 
+article > pre {
+  overflow-x: scroll;
+  background-color: lightgray;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-family: "Fira Code", monospace;
+}
+
+article > pre > code {
+  font-family: "Fira Code", monospace;
+}
+
 article {
     font-family: "Open Sans", sans-serif;
 }
